@@ -21,7 +21,7 @@ global.APIKeys = {
 // Other
 global.owner = ['6285806459088']
 global.ownernomer = "6285806459088"
-global.premium = ['6285875158363']
+global.premium = ['6285806459088']
 global.packname = 'ShellTear:3'
 global.author = 'MoonLight'
 global.sessionName = 'session'  //jangan diganti bro nanti error
